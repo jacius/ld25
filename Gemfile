@@ -5,3 +5,5 @@ gem 'require_all'
 gem "gamebox", '0.4.0.rc10'
 gem "conject"
 gem "rspec"
+gem "pry"
+gem "pry-remote"
