@@ -259,10 +259,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="91.106767"
+     inkscape:cx="162.60677"
      inkscape:cy="336.75379"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -756,7 +756,7 @@
     <g
        id="g4070"
        transform="matrix(0.99359662,0,0,1,0,-192)"
-       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/trees1.png"
+       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/trees1_nobg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -765,7 +765,7 @@
          height="96"
          width="96.618683"
          id="rect4049"
-         style="fill:#7ccb55;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#7ccb55;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0" />
       <use
          height="256"
          width="256"
@@ -858,11 +858,11 @@
     </g>
     <g
        id="g4428"
-       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/trees2.png"
+       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/trees2_nobg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
-         style="fill:#b3d37a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#b3d37a;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0"
          id="rect4115"
          width="96"
          height="96"
@@ -924,7 +924,7 @@
     </g>
     <g
        id="g4437"
-       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/trees3.png"
+       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/trees3_nobg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -933,7 +933,7 @@
          height="96"
          width="96"
          id="rect4133"
-         style="fill:#b7be74;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#b7be74;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01" />
       <use
          x="0"
          y="0"
@@ -1097,11 +1097,11 @@
     </g>
     <g
        id="g5016"
-       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/factory1.png"
+       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/factory1_nobg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
-         style="fill:#9f9f9f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#9f9f9f;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0"
          id="rect4086"
          width="96"
          height="96"
@@ -1115,51 +1115,6 @@
          xlink:href="#g4570"
          y="0"
          x="0" />
-    </g>
-    <g
-       id="g5189"
-       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/factory2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         y="192"
-         x="96"
-         height="96"
-         width="96"
-         id="rect5022"
-         style="fill:#9f9f9f;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <use
-         height="480"
-         width="480"
-         transform="matrix(0.38799116,-0.05519608,0.05519608,0.38799116,303.55144,252.33527)"
-         id="use5177"
-         xlink:href="#g5072"
-         y="0"
-         x="0" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g5072"
-         id="use5179"
-         transform="matrix(0.38848956,0.05157141,-0.05157141,0.38848956,307.04867,297.39255)"
-         width="480"
-         height="480" />
-      <use
-         height="480"
-         width="480"
-         transform="matrix(0.37660751,0.10839988,-0.10839988,0.37660751,309.06842,326.40588)"
-         id="use5181"
-         xlink:href="#g5072"
-         y="0"
-         x="0" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g4570"
-         id="use5024"
-         transform="matrix(0.44502744,0,0,0.44502744,284.70113,294.05185)"
-         width="480"
-         height="480" />
     </g>
     <g
        id="g5072"
@@ -1198,11 +1153,11 @@
     </g>
     <g
        id="g5217"
-       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/factory3.png"
+       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/factory3_nobg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
-         style="fill:#9f9f9f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#9f9f9f;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0"
          id="rect5198"
          width="96"
          height="96"
@@ -1264,6 +1219,51 @@
          xlink:href="#g5183"
          y="0"
          x="0" />
+    </g>
+    <g
+       id="g5189"
+       inkscape:export-filename="/Users/jac/projects/ld25/data/graphics/factory2_nobg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="192"
+         x="96"
+         height="96"
+         width="96"
+         id="rect5022"
+         style="fill:#9f9f9f;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0" />
+      <use
+         height="480"
+         width="480"
+         transform="matrix(0.38799116,-0.05519608,0.05519608,0.38799116,303.55144,252.33527)"
+         id="use5177"
+         xlink:href="#g5072"
+         y="0"
+         x="0" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g5072"
+         id="use5179"
+         transform="matrix(0.38848956,0.05157141,-0.05157141,0.38848956,307.04867,297.39255)"
+         width="480"
+         height="480" />
+      <use
+         height="480"
+         width="480"
+         transform="matrix(0.37660751,0.10839988,-0.10839988,0.37660751,309.06842,326.40588)"
+         id="use5181"
+         xlink:href="#g5072"
+         y="0"
+         x="0" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g4570"
+         id="use5024"
+         transform="matrix(0.44502744,0,0,0.44502744,284.70113,294.05185)"
+         width="480"
+         height="480" />
     </g>
   </g>
   <g
